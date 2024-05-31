@@ -1,7 +1,6 @@
 streamlit-pydantic
 python-dotenv
 google-generativeai
-openai
-random
-speech_recognition
+openai==1.11.1
+SpeechRecognition
 psycopg2
