@@ -26,7 +26,7 @@ Or come up with your own situation and let other players guess!
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run how_to_play.py
 ```
 
 ## Reflections
