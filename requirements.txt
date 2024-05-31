@@ -4,3 +4,4 @@ google-generativeai
 openai==1.11.1
 SpeechRecognition
 psycopg2-binary==2.9.9
+PyAudio
