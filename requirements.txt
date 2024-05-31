@@ -1,3 +1,7 @@
 streamlit-pydantic
 python-dotenv
 google-generativeai
+openai
+random
+speech_recognition
+psycopg2
