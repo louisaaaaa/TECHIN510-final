@@ -17,9 +17,9 @@ Or come up with your own situation and let other players guess!
 
 ## What problems am I trying to solve
 - I want to create a fun and interactive game for users to enjoy
-- I want to be able to store puzzles
-- I want 
-- Added voice recognition for better user experience
+- I want to use better prompting techniques to get desired output
+- I want to be able to store and search puzzles
+- I want to add speech-to-text for better user experience
    
 ## How to Run
 ```
@@ -38,6 +38,6 @@ streamlit run how_to_play.py
 - How to use voice recognition to get user input
 - How to use pictures to improve UI
 ### What questions/problems did I face
-- I tried to scrape data from the web
-- How to use prompts to get desired output
+- I tried to scrape data from the web, but most websites have anti-scraping measures and I failed to do so
+- I could run the voice recognition on my local machine, but not on the server, streamlit cloud does not support it https://discuss.streamlit.io/t/error-installing-pyaudio-for-voice-processing/63630/3
   
